@@ -1,1 +1,13 @@
-{"ciekawostka1":"Ludzie mówią „Na zdrowie”, gdy kichasz, ponieważ kiedy kichasz, twoje serce zatrzymuje się na mili sekundę.","numer":"1 z 50"}
+{
+	"ciekawostki":
+		{
+			"id": "1",
+			"ciekawostka": "XD",
+			"numer": "1 z 10"
+		},
+		{
+			"id": "2",
+			"ciekawostka": "XDD",
+			"numer": "2 z 10"
+		}
+}
